@@ -1,2 +1,2 @@
-export * from './Banner'
-export * from './BannerChild'
+export * from "./Banner";
+export * from "./bannerChild";
